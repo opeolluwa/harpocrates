@@ -1,5 +1,5 @@
 # Harpocrates 
-![illustration](./harpocrates.png)
+![illustration](./harpocrate.png)
 
 
 A CLI chat app client 
