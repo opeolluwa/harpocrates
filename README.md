@@ -11,4 +11,6 @@ A small group of freedom fighters codename the **HARPOCRATES**
 balance and sanity to our World.
 
 
-To this effect, I was assigned the mammoth task of building a secure communication  channel accessible only to fellow Harpocates via the Command Line Interface 
+To this effect, I was assigned the mammoth task of building a secure communication  channel accessible only by fellow Harpocates via the Command Line Interface 
+
+I must hurry 🤧
