@@ -6,6 +6,6 @@ It's the year 2057. The world is being
 ruled by a corrupt council headed by Natasha. 
 
 
-A small group of freedom fighters must rise to restore 
-balance and sanity to our World. This group is named the **Harpocrates**
-
+A small group of freedom fighters codename the **Harpocrates**
+  must rise to restore 
+balance and sanity to our World.
