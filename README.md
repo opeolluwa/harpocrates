@@ -3,12 +3,12 @@
 
 ## What are Harpocrates? 
 It's the year 2057. The world is being 
-ruled by a corrupt council headed by Natasha. 
+ruled by a corrupt council know as **The EYE**
 
 
-A small group of freedom fighters codename the **Harpocrates**
-  must rise to restore 
+A small group of freedom fighters codename the **HARPOCRATES**
+  must rise to restore peace, 
 balance and sanity to our World.
 
 
-To save our world, I must build a secure communication  channel accessible only via the Command Line Interface 
+To this effect, I was assigned the mammoth task of building a secure communication  channel accessible only to fellow Harpocates via the Command Line Interface 
