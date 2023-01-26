@@ -3,10 +3,10 @@
 
 ## What are Harpocrates? 
 It's the year 2057. The world is being 
-ruled by a corrupt council know as **The EYE**
+ruled by a corrupt council known as **The EYE**
 
 
-A small group of freedom fighters codename the **HARPOCRATES**
+A small group of freedom fighters codenamed the *HARPOCRATES**
   must rise to restore peace, 
 balance and sanity to our World.
 
